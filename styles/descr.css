@@ -1,0 +1,13 @@
+.main-title {
+	margin-bottom: 0;
+}
+
+.main {
+	display: flex;
+}
+
+.text {
+	width: 600px;
+	padding: 40px;
+	text-indent: 0;
+}
